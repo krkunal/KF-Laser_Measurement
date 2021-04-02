@@ -1,0 +1,10 @@
+data
+output
+term1-simulator-linux
+.ipynb_checkpoints
+models
+*.swp
+*.p
+*.vscode
+*.deb
+environment.yml
